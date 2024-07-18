@@ -35,7 +35,3 @@ IDLE loop
 IDLE loop
 ...
 ```
-
-## Troubleshooting
-
-Please check the [FAQ](../../README.md#faq) first to see if the same question exists. If not, please create a [Github issue](https://github.com/esp-arduino-libs/ESP32_Display_Panel/issues). We will get back to you as soon as possible.

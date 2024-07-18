@@ -2,7 +2,7 @@
 
 The example is used to guide how to use this library in PlatformIO. It also demonstrates how to port LVGL(v8). And for RGB LCD, it can enable the avoid tearing fucntion.
 
-It is by default suitable for **ESP32-S3-LCD-EV-Board** and **ESP32-S3-LCD-EV-Board-2** boards. Users should modify the [boards/ESP-LCD.json](boards/ESP-LCD.json) file as needed.
+It is by default suitable for **Waveshare ESP32-S3 4.2inch lcd** and **Waveshare ESP32-S3 7inch lcd** boards. 
 
 ## How to Use
 
